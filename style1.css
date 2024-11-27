@@ -1,0 +1,42 @@
+body{
+    background: rgb(151, 56, 56);
+
+}
+header nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color: brown;
+}
+header nav ul{
+    list-style: none;
+    margin: 0%;
+}
+header nav ul li{
+    margin: 0%;
+    padding: 0%;
+    float: left;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(245, 241, 241);
+    line-height: 40px;
+    text-align: center;
+
+}
+header nav ul li a:hover{
+
+    display: block;
+    background: hwb(207 5% 11%);
+}
+header nav{
+
+}
+
+
+p{
+    width: 300px;
+    height: auto;
+    margin-right: 10px;
+    font-size: 36px;
+    font-size: 100px;
+    text-align: center;
+}
